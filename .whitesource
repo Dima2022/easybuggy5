@@ -1,5 +1,7 @@
 {
-  "settingsInheritedFrom": "Dima2022/whitesource-config@main"
+  "settingsInheritedFrom": "Dima2022/whitesource-config@main",
+  "scanSettingsSAST": {
+    "enableScan": "true",
+    "scanPullRequests": true
+  }
 }
-
-
