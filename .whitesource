@@ -3,8 +3,9 @@
   "scanSettingsSAST": {
     "enableScan": "true",
     "scanPullRequests": true
+  },
+  "issueSettingsSAST": {
+    "minSeverityLevel": "LOW",
+    "issueType": "REPO"
   }
 }
-
-
-
