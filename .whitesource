@@ -5,7 +5,7 @@
     "scanPullRequests": true
   },
   "issueSettingsSAST": {
-    "minSeverityLevel": "LOW",
-    "issueType": "REPO"
+    "minSeverityLevel": "low",
+    "issueType": "repo"
   }
 }
