@@ -5,7 +5,7 @@
     "scanPullRequests": true
   },
   "issueSettingsSAST": {
-    "minSeverityLevel": "LOW",
+    "minSeverityLevel": "low",
     "issueType": "finding"
   }
 }
